@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JSONPra</string>
+    <string name="jsondata">
+    {
+        "booklist": [
+            "Java",
+            "JS",
+            "R"
+        ],
+        "pwd": 9487,
+        "userId": "kancheng"
+    }
+    </string>
+</resources>
